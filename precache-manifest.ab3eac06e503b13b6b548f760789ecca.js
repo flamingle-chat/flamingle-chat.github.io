@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fe33b6995359ce8ec43a817f22f179a",
+    "revision": "67139fd3b247ae1a05b08f1e364dc5fb",
     "url": "/index.html"
   },
   {
-    "revision": "3bde7393d53dcc00030b",
+    "revision": "370d0cab365a8ebe6e91",
     "url": "/static/css/2.9690ccc1.chunk.css"
   },
   {
-    "revision": "dacf3e13d32b22a2a7a7",
-    "url": "/static/css/main.0ed3a05e.chunk.css"
+    "revision": "7bc7ee1b3cff1fa7583e",
+    "url": "/static/css/main.54181bdf.chunk.css"
   },
   {
-    "revision": "3bde7393d53dcc00030b",
-    "url": "/static/js/2.cc70326b.chunk.js"
+    "revision": "370d0cab365a8ebe6e91",
+    "url": "/static/js/2.13347c8f.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.cc70326b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.13347c8f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dacf3e13d32b22a2a7a7",
-    "url": "/static/js/main.949f5aff.chunk.js"
+    "revision": "7bc7ee1b3cff1fa7583e",
+    "url": "/static/js/main.91fb0f3a.chunk.js"
   },
   {
     "revision": "90328a4766aa16c3fb55",
@@ -572,8 +572,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ionicons.2c2ae068.eot"
   },
   {
-    "revision": "621bd386841f74e0053cb8e67f8a0604",
-    "url": "/static/media/ionicons.621bd386.svg"
+    "revision": "7a0a022b271b3197e0dbaedb7b60d5e3",
+    "url": "/static/media/ionicons.7a0a022b.svg"
   },
   {
     "revision": "300526761dbec1996d55e1475f5c9036",
@@ -862,6 +862,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dd22906b1a735813a2aad2a5412a21de",
     "url": "/static/media/team-05.dd22906b.jpg"
+  },
+  {
+    "revision": "924c7558f14efee97ebb06cc431f26fa",
+    "url": "/static/media/telegram-1.924c7558.svg"
+  },
+  {
+    "revision": "b8742bbf214b8b6627d656f68d81d357",
+    "url": "/static/media/telegram-svgrepo-com.b8742bbf.svg"
   },
   {
     "revision": "3ed47b8703d0f7bf441f3d5bd877ed24",
